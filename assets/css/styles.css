@@ -1,2 +1,68 @@
 
 /* css */
+.header1 {
+  background-color : #a5abbd;
+  padding-top : 20px;
+  padding-bottom : 20px;
+}
+
+.header2 {
+  background-color : #414756;
+  padding: 5px;
+}
+
+.background1 {
+  background-color: #889cc9;
+  height: 90%;
+}
+
+.background2 {
+  background-color: #b2996f;
+  height: 50%;
+}
+
+.overview {
+  margin: auto;
+  height: 90%;
+  width: 75%;
+  /* background-color: white; */
+  padding : 10px;
+}
+
+.tasks {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.task {
+  padding-top: 10px;
+}
+
+.tasksbox {
+  background-color: white;
+  height: 160px;
+  padding: 10px;
+}
+
+.timebox {
+  background-color: #414756;
+  height: 130px;
+  width: 16%;
+}
+
+img {
+  height: 75px;
+  width: auto;
+}
+ h1, h4 {
+   margin: auto;
+   color: white;
+ }
+
+ h4 {
+   font-weight : 300;
+ }
+
+ h6 {
+   margin: auto;
+ }
